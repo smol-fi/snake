@@ -1,0 +1,11 @@
+D:\School\Ohjelmoinnin perusteet\ttz_0200snake\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+D:\School\Ohjelmoinnin perusteet\ttz_0200snake\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+D:\School\Ohjelmoinnin perusteet\ttz_0200snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+D:\School\Ohjelmoinnin perusteet\ttz_0200snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+D:\School\Ohjelmoinnin perusteet\ttz_0200snake\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+D:\School\Ohjelmoinnin perusteet\ttz_0200snake\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+D:\School\Ohjelmoinnin perusteet\ttz_0200snake\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+D:\School\Ohjelmoinnin perusteet\ttz_0200snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+D:\School\Ohjelmoinnin perusteet\ttz_0200snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+D:\School\Ohjelmoinnin perusteet\ttz_0200snake\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+D:\School\Ohjelmoinnin perusteet\ttz_0200snake\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
